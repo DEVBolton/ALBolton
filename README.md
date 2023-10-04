@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @DJJBolton
 - 👀 I’m interested in open source virtual reality projects.
-- 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on game development projects.
 - 📫 How to reach me: djjbolton@gmail.com
 
